@@ -1,0 +1,13 @@
+{
+  "db_user" : "faruque",
+  "dbpassword" : "Sydney123",
+  "hostname"  :  "localhost",
+   "databasename" : "PROSPAGOLD",
+   "port" :"3306",
+   "ddl_file":"/SQL/ddl.sql", 
+   "dw_ddl_file":"/SQL/dw_ddl.sql", 
+   "stage_filedir" : "/DATA/STAGE", 
+   "badfile_dir" : "/DATA/BADFILE",
+   "log_filedir" : "/DATA/LOG",
+   "processed_filedir" : "/DATA/PROCESSED"
+}
