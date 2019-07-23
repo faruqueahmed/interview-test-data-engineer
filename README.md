@@ -1,9 +1,9 @@
 [Faruque]
 --------
 
-Please check for my response : 
-1 The small ETL project.md		
-2. Assignment and Result.md
+Please check my responses in the following files  : 
+1.  The small ETL project.md		
+2.  Assignment and Result.md
 
 
 # Data Engineer Interview Test
